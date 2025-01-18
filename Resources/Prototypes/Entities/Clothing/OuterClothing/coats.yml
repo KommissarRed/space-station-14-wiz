@@ -471,7 +471,7 @@
 - type: entity
   parent: [ClothingOuterStorageFoldableBase, AllowSuitStorageClothing, BaseRestrictedContraband]
   id: ClothingOuterSecurityBomber
-  name: security bomber
+  name: security armored bomber
   description: A regular bomber, but with armored inserts..
   components:
   - type: Sprite
