@@ -472,7 +472,7 @@
   parent: [ClothingOuterStorageFoldableBase, AllowSuitStorageClothing, BaseRestrictedContraband]
   id: ClothingOuterSecurityBomber
   name: security bomber
-  description: A regular bomber, but with armored inserts.
+  description: A regular bomber, but with armored inserts..
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Coats/security_bomber.rsi
